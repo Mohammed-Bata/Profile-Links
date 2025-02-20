@@ -48,7 +48,7 @@ body {
   font-weight: 600;
   text-align: center;
 }
-.card .content p {
+.card .content {
   color: var(--font-white);
   font-size: 14px;
 }
